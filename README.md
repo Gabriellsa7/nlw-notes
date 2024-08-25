@@ -29,7 +29,7 @@ This is a simple and intuitive notes website where users can add, edit, and dele
    ```bash
    git clone https://github.com/Gabriellsa7/nlw-notes.git
 
-# React + TypeScript + Vite
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
